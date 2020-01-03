@@ -3,7 +3,7 @@ using namespace std;
 
 double findDivisor(int a)
 {
-    int b = 2 ;
+    int b = 2;
     while( a%b != 0)
     {
         b++;
