@@ -10,7 +10,7 @@ double findDistance(double u,double a,double t)
 
 int main(){
 
-  double s,u,a,t;
+  double s,u,a,t ;
   cout << "Enter u = ";
   cin >> u;
 
