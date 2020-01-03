@@ -11,7 +11,7 @@ double calculate(int x)
 
 int main()
 {
-    int x;
+    int x ;
     cout << "Enter x = " ;
     cin >> x;
     cout << " Result y = " << calculate(x) << "\n";
