@@ -3,7 +3,7 @@
 using namespace std;
 
 void printString1(string s, int N){
-	int count = 0;
+	int count = 0 ;
 	while(count < N){
 		cout << s;
 		count++;
