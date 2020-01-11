@@ -28,7 +28,7 @@ int main()
 	int count = 0;
 	while(count < 10){
 		printString1("5",9-count);
-		printString2("6","9",1+count);
+		printString2("6","9",0+count);
 		cout << endl;
 		
 		count++;
